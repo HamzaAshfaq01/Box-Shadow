@@ -6,12 +6,14 @@ Its a basic website template developed with simple and basic HTML and CSS.This t
   <li>HTML</li>.
   <li>CSS</li>.
 </ul>
-<h2>Silent Features</jh2>:
+<h2>Silent Features</h2>:
 <ul>
-  <li>Basic structure of any website is describe</li>.
-  <li>Minimal unique and dynaic design.</li>
+  
+  <li>Basic structure of any website is describe</li>
+  <li>Minimal unique and dynaic design</li>
   <li>Box-Shadow</li>
   <li>Clip-Path</li>
-  </ul>
+  
+</ul>
 Project Preview:
 (https://hamzaashfaq01.github.io/Box-Shadow/).
